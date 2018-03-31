@@ -239,6 +239,8 @@ a {
                     <li>An alert whenever anyone uses specific words such as death, suicide or killing etc. reminding them that this software should not be used to make life or death decisionsAnd removing that word from the decsion, pro or con. If the user is a registered user, their account should be flagged for the admin.</li>
                     <li>Nabvigation bar: Features (of this software), How to Use, Forum link</li>
                     <li>Add a forum for registered users. Add Discourse/Disqus forum.</li>
+                    <li>Add pie chart to share cons and pros, basically all the values for each side added up with their weighting or maybe just raw values. Think about this.</li>
+                    <li>Add bar chart with axis horizontally centred, showing pros against cons for a little more visualisation.</li>
                 </ol>
             </div>
         </div>
