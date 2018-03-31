@@ -2,14 +2,6 @@
 
 > helps make decisions
 
-Run with
-
-```$ npm install
-
-and run in developement with
-
-```$ npm run dev
-
 ## Build Setup
 
 ``` bash
